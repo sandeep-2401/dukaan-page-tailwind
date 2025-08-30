@@ -1,3 +1,5 @@
+“A responsive dashboard-style web page built with React, Vite, and Tailwind CSS. Includes a collapsible sidebar, top bar, revenue/transaction cards, and a data table to mimic a simple Dukaan-style interface.”
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
